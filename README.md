@@ -1,16 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
-
-<style type="text/css">
-  body{
-  font-size: 12pt;
-  font-family: Arial;
-}
-</style>
-
 # Human Germline WGS Bioinformatics Workflow
 **Andy Ding (andy.ding@sickkids.ca), last updated: March 31, 2022**
 
