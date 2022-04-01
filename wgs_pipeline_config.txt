@@ -1,0 +1,8 @@
+picard	/hpf/projects/sbowdin/andyding/bin/picard.jar
+samtools	/hpf/projects/sbowdin/andyding/bin/samtools-1.14/samtools
+dragen-os	/hpf/projects/sbowdin/andyding/bin/DRAGMAP/build/release/dragen-os -v
+gatk	/hpf/projects/sbowdin/andyding/bin/gatk-4.2.4.1/gatk
+bgzip	/hpf/tools/centos6/htslib/1.11/bin/bgzip
+tabix	/hpf/tools/centos6/htslib/1.11/bin/tabix
+cnvnator	/hpf/projects/sbowdin/andyding/bin/CNVnator/cnvnator
+reference	/hpf/projects/sbowdin/andyding/yiming/hg38_reference
